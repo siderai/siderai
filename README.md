@@ -2,6 +2,12 @@
 
 :technologist: I'm looking for a job as Junior Python Developer
 
+🌱 I’m currently learning drf, aiohttp, fastapi, asyncio
+
+:memo: I'm going to learn golang, celery, rabbitmq
+
+📫 Contact me via telegram @siderai or e-mail sidai@bk.ru
+
 :gear: My stack:
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -13,13 +19,6 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-
-
-🌱 I’m currently learning drf, aiohttp, fastapi, asyncio
-
-:memo: I'm going to learn golang, celery, rabbitmq
-
-📫 Contact me via telegram @siderai or e-mail sidai@bk.ru
 
 
 
