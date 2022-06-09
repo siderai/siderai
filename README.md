@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning drf, aiohttp, fastapi, asyncio
 
-:memo: I'm going to learn golang, celery, rabbitmq
+:memo: I'm going to learn golang, celery, redis, rabbitmq
 
 📫 Contact me via telegram @siderai or e-mail sidai@bk.ru
 
