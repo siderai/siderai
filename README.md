@@ -1,12 +1,12 @@
 👋 Hi, I’m Alexander
 
-:technologist: I'm looking for a job as Junior Python Developer
+:technologist: I'm looking for a job as Python Developer
 
-🌱 I’m currently learning drf, aiohttp, fastapi, asyncio
+🌱 I’m currently learning fastapi, aiohttp, sqlalchemy
 
-:memo: I'm going to learn golang, celery, redis, rabbitmq
+:memo: I'm going to learn celery, redis, rabbitmq, kafka, golang
 
-📫 Contact me via telegram @siderai or e-mail sidai@bk.ru
+📫 Reach me out at [telegram](https://t.me/siderai) or sidai@bk.ru
 
 :gear: My stack:
 
