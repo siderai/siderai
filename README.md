@@ -1,6 +1,6 @@
 👋 Hi, I’m Alexander
 
-:technologist: I'm looking for a job as Python Developer
+:technologist: I'm Python Backend Developer
 
 
 
