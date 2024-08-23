@@ -1,6 +1,6 @@
 👋 Hi, I’m Alexander
 
-:technologist: I am Python developer, currently working at [eXpress](https://express.ms/)
+:technologist: I am Backend developer
 
 📫 Reach me out at [telegram](https://t.me/siderai) or sidai@bk.ru
 
